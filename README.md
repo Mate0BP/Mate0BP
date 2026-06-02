@@ -50,6 +50,15 @@ Me considero una persona con una **comunicación clara**, siempre abierto a la *
 
 ---
 
+### 🎧 Now Playing
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ah2l5vcsl6d5xs7lhvjsfj6s4a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ah2l5vcsl6d5xs7lhvjsfj6s4a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify" />
+  </a>
+</p>
+
+--
+
 ### 📬 Contacto
 
 Si quieres colaborar en un proyecto, hablar sobre backend o simplemente conectar, ¡escríbeme!
